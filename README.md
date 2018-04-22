@@ -2,8 +2,6 @@ CHESS is a comprehensive set of human genes based on nearly 10,000 RNA sequencin
 
 CHESS contains virtually all genes from RefSeq (as of mid-2017) and GENCODE. It adds 1476 protein-coding genes and 1,276 lncRNAs based on strong experimental and alignment evidence, as described in a forthcoming paper (see below).
 
-Colons can be used to align columns.
-
 | Filename  | Content | Description |
 | ------------- |:-------------:|:-------------:|
 | chess1.0.gff.gz | CHESS gene annotation | This file contains the primary gene set described in the CHESS paper, in GFF format. All genes and transcripts are mapped onto human genome release GRCh38.p7. Included in this file are genes on the reference chromosomes, unmapped scaffolds, assembly patches, and alternate loci. 
